@@ -2,10 +2,12 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    private Rigidbody2D rb;
+    [Header(" Elements ")]
     [SerializeField] private MobileJoystick joystick;
-    [SerializeField] private float moveSpeed;
+    private Rigidbody2D rb;
     
+    [Header(" Settings ")]
+    [SerializeField] private float moveSpeed;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()

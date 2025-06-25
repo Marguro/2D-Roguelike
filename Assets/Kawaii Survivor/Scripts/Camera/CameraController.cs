@@ -2,8 +2,10 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
+    [Header(" Elements ")]
     [SerializeField] private Transform target;
 
+    [Header(" Settings ")]
     [SerializeField] private Vector2 minMaxXY;
     
     private void LateUpdate()
