@@ -1,0 +1,8 @@
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

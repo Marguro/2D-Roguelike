@@ -1,0 +1,1 @@
+C:\UnityProject\2D-Roguelike\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\13552h3u\obj\armeabi-v7a
