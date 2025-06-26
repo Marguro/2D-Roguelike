@@ -1,0 +1,8 @@
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/UnityProject/2D-Roguelike/.utmp/RelWithDebInfo/2u3z5t6s/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
