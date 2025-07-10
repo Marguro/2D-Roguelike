@@ -12548,7 +12548,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3713f5d4da33f9889973bc489ae22b46, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  range: 1.23
+  range: 4.65
+  enemyMask:
+    serializedVersion: 2
+    m_Bits: 64
+  aimLerp: 8
 --- !u!4 &2021854422
 Transform:
   m_ObjectHideFlags: 0
