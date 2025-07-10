@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3691636203399976841}
   - component: {fileID: 1388614038652771958}
   - component: {fileID: 129108213085596755}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Enemy Renderer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -112,7 +112,7 @@ GameObject:
   - component: {fileID: 8530801653766561363}
   - component: {fileID: 6272999090694883075}
   - component: {fileID: 22034232328072920}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: 'Pass Away Particle '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5003,7 +5003,8 @@ GameObject:
   - component: {fileID: 8029032771378044310}
   - component: {fileID: 1793547599824474297}
   - component: {fileID: 2195947295132448218}
-  m_Layer: 0
+  - component: {fileID: 2725899325604607658}
+  m_Layer: 6
   m_Name: Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5046,7 +5047,7 @@ MonoBehaviour:
   attackFrequency: 1
   playerDetectionRadius: 0.5
   passAwayEffect: {fileID: 6272999090694883075}
-  gizmos: 0
+  gizmos: 1
 --- !u!114 &2195947295132448218
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5060,6 +5061,42 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 1
+--- !u!58 &2725899325604607658
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6321792557956985788}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.030164689, y: 0.3377176}
+  m_Radius: 0.43717164
 --- !u!1 &7185866660073494216
 GameObject:
   m_ObjectHideFlags: 0
@@ -5071,7 +5108,7 @@ GameObject:
   - component: {fileID: 8784058986765302656}
   - component: {fileID: 7004343490602160435}
   - component: {fileID: 789995301549272943}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Spawn Indicator
   m_TagString: Untagged
   m_Icon: {fileID: 0}
