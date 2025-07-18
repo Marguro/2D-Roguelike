@@ -1,3 +1,4 @@
+using TMPro;
 using UnityEngine;
 
     [RequireComponent(typeof(EnemyMovement))]
@@ -5,6 +6,11 @@ public class Enemy : MonoBehaviour
 {
     [Header(" Components ")]
     private EnemyMovement movement;
+    
+    [Header(" Health ")]
+    [SerializeField] private int maxHealth;
+    private int health;
+    [SerializeField] private TextMeshPro healthText;
     
     [Header(" Elements ")] 
     private Player player;
@@ -21,6 +27,7 @@ public class Enemy : MonoBehaviour
     private float attackDelay;
     private float attackTimer;
     
+    
     [Header(" Effects ")]
     [SerializeField] private ParticleSystem passAwayEffect;
     
@@ -30,6 +37,9 @@ public class Enemy : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        health = maxHealth;
+        healthText.text = health.ToString();
+        
         movement = GetComponent<EnemyMovement>();
         
         player = FindAnyObjectByType<Player>();
@@ -82,6 +92,17 @@ public class Enemy : MonoBehaviour
         attackTimer = 0f;
         
         player.TakeDamage(damage);
+    }
+
+    public void TakeDamage(int damage)
+    {
+        int realDamage = Mathf.Min(damage, health);
+        health -= realDamage;
+        
+        healthText.text = realDamage.ToString();
+        
+        if (health <= 0)
+            PassAway();
     }
     
     private void Wait()
