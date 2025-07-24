@@ -1,12 +1,23 @@
 # ninja log v5
+24	3718	7736782960222641	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	24cbd5f35f0f798d
 109	492	7736782927842585	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	45560715fe2318f5
 523	2117	7736782943558356	C:/UnityProject/2D-Roguelike/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/13552h3u/obj/armeabi-v7a/libswappywrapper.so	6e76b72fa568add8
+78	3585	7736782958931759	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	72f472631a63992a
 1	2965	7736782952626871	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	4247ef7c8923a550
-92	3075	7736782953799693	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	527ecc3706cc75f8
 13	3132	7736782954234993	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	fbd756a8e3ffa177
+92	3075	7736782953799693	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	527ecc3706cc75f8
 37	3136	7736782954330516	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	27c7fcbac513e83c
 50	3139	7736782954446618	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6b687597b946f55d
-78	3585	7736782958931759	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	72f472631a63992a
 64	3710	7736782960207411	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5a8852b9f0edecf9
-24	3718	7736782960222641	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	24cbd5f35f0f798d
 3718	3872	7736782961954122	C:/UnityProject/2D-Roguelike/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/13552h3u/obj/armeabi-v7a/libgame.so	d26a2678bf983ec
+257	801	7745235538123490	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	45560715fe2318f5
+802	1724	7745235546214182	C:/UnityProject/2D-Roguelike/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/13552h3u/obj/armeabi-v7a/libswappywrapper.so	6e76b72fa568add8
+25	3668	7745235566532143	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6b687597b946f55d
+38	3852	7745235567908438	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	fbd756a8e3ffa177
+154	3877	7745235568556857	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	27c7fcbac513e83c
+71	4068	7745235570710055	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	527ecc3706cc75f8
+112	4313	7745235573000415	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	72f472631a63992a
+52	4338	7745235573465785	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	4247ef7c8923a550
+128	4803	7745235578110947	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5a8852b9f0edecf9
+10	5124	7745235581355028	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	24cbd5f35f0f798d
+5125	5340	7745235583657484	C:/UnityProject/2D-Roguelike/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/13552h3u/obj/armeabi-v7a/libgame.so	d26a2678bf983ec
